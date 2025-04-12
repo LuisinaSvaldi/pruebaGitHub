@@ -1,6 +1,3 @@
 ## pruebaGitHub
 
-Modificamos este archivo.
-
-### Modificaciones:
-modificacion
+Ya se pudo conectar con la cuenta institucional.
